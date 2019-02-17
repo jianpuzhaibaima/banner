@@ -1,0 +1,22 @@
+<script src="js/jquery-3.2.1.min.js"></script>
+<div class="banner">
+         <div class="banner_wrap">
+             <ul class="banner_img clear_fix">
+                 <li class="ig"><img src="./img/banner_one.jpg" alt=""></li>
+                 <li class="ig"><img src="./img/banner_4.png" alt=""></li>
+                 <li class="ig"><img src="./img/banner_four.png" alt=""></li>
+                 <li class="ig"><img src="./img/banner_6.png" alt=""></li>
+             </ul>
+             <div class="banner_left">
+                 <img src="./img/向左.png" alt="">
+             </div >
+             <div class="banner_right">
+                 <img src="./img/向右.png" alt="">
+             </div>
+         </div>
+     </div>
+--------------------- 
+作者：优利德 
+来源：CSDN 
+原文：https://blog.csdn.net/weixin_43706224/article/details/87534729 
+版权声明：本文为博主原创文章，转载请附上博文链接！
